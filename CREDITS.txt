@@ -1,0 +1,140 @@
+AMNH: AFTER HOURS - THIRD-PARTY CREDITS
+========================================
+
+This is a free fan project, not affiliated with the American Museum of Natural History.
+
+DIORAMA ANIMALS (3D models from Sketchfab, used under the Creative Commons licence shown;
+models were re-posed/scaled and re-textured for the game)
+
+  "African wild dog (Lycaon pictus) Dog 3d model" by iRahulRajput - CC Attribution
+      https://sketchfab.com/3d-models/3a60f5bc707246cb9a3d6bab97d0b47e
+  "Aniamted Seal" by igor-lir - CC Attribution
+      https://sketchfab.com/3d-models/28d9c15e455b4bbca3843ca1a3629b76
+  "BEAR - Realistic 3D Model (DEMO FREE)" by WildMesh 3D - CC Attribution-NonCommercial
+      https://sketchfab.com/3d-models/8ba2b39b31474ddd96d95d47119250b1
+  "Blue Antelope (NHMW-ZOO-MAMM-ST715)" by Natural History Museum Vienna - CC Attribution-NonCommercial
+      https://sketchfab.com/3d-models/0d5170d9339e4d14bc1f0b2abf06111a
+  "BUFFALO - Realistic 3D Model (DEMO FREE)" by WildMesh 3D - CC Attribution-NonCommercial
+      https://sketchfab.com/3d-models/dc33860c95ff40b99107336746705984
+  "chimpanzee Monkey 3d model free" by iRahulRajput - CC Attribution
+      https://sketchfab.com/3d-models/24b5305fd671484d90d0f0c7f051ea17
+  "DEER - Realistic 3D Model (DEMO FREE)" by WildMesh 3D - CC Attribution-NonCommercial
+      https://sketchfab.com/3d-models/3997d669818c4e0d8c8bcafb0a1ae2ee
+  "Elephant" by victorberdugo1 - CC Attribution
+      https://sketchfab.com/3d-models/b624534f93ae49c9ba501c0842fc9cd0
+  "Elephant seal" by VoltVeigh - CC Attribution
+      https://sketchfab.com/3d-models/653e1c4699cc410fbbe92e3a381c1bfb
+  "Elk Antelope" by iRahulRajput - CC Attribution
+      https://sketchfab.com/3d-models/f7a99d6b1b3f41c8a7016c7e00ed7039
+  "Free Gorilla" by filip.hans.nyberg - CC BY 4.0
+      https://sketchfab.com/3d-models/ad28003205884841a028e80edb4089ef
+  "Gazella" by kenchoo - CC Attribution
+      https://sketchfab.com/3d-models/b2c70a0821ef4c6ca0c096e33bc97593
+  "Gazelle" by hendrikReyneke - CC Attribution
+      https://sketchfab.com/3d-models/4afbf4bd95764e32b8a29168cb2549da
+  "Gemsbok Sideenerate 3d model free" by iRahulRajput - CC Attribution
+      https://sketchfab.com/3d-models/ac8984ff21b644a5acbaadf008e0ac43
+  "Giraffe" by sdpm - CC BY 4.0
+      https://sketchfab.com/3d-models/7c91bd719e594fcc930f3646db843265
+  "Giraffe" by victorberdugo1 - CC Attribution
+      https://sketchfab.com/3d-models/3d4116209ce3443188a2be064fd61e39
+  "HYENA - Realistic 3D Model (DEMO FREE)" by WildMesh 3D - CC Attribution-NonCommercial
+      https://sketchfab.com/3d-models/bbca6b48877d42bcaf39a0edbf3dc972
+  "Kudu animal 3d model free" by iRahulRajput - CC Attribution
+      https://sketchfab.com/3d-models/da800801f4b2479e954cde548aa755f2
+  "LIONESS - Realistic 3D Model (DEMO FREE)" by WildMesh 3D - CC Attribution-NonCommercial
+      https://sketchfab.com/3d-models/51e60bf5fe37445e91093b4b00a5b0aa
+  "male lion" by iRahulRajput - CC Attribution
+      https://sketchfab.com/3d-models/3dbbabeb85004a099d1c1bc95f4a8f67
+  "MOOSE - Realistic 3D Model (DEMO FREE)" by WildMesh 3D - CC Attribution-NonCommercial
+      https://sketchfab.com/3d-models/0ee3d3f1e02746c89d6a5754dfd2ee67
+  "Mud-Splattered Warthog, pig" by iRahulRajput - CC Attribution
+      https://sketchfab.com/3d-models/32e5227db2264d0a9f3a685497c40196
+  "Muntjac or Tufted deer" by iRahulRajput - CC Attribution
+      https://sketchfab.com/3d-models/0fc7aba276064a95b15b257c31b536b8
+  "Okapi (NHMW-ZOO-MAMM-ST348)" by Natural History Museum Vienna - CC Attribution-NonCommercial
+      https://sketchfab.com/3d-models/c1c13a4994924a56a4a8244f6f543d7f
+  "Polar Bear" by cedes - CC BY-SA 4.0
+      https://sketchfab.com/3d-models/401e5a7e5ad04f498cbfe1b7054d83ec
+  "Prowling Leopard 3D Model Free" by iRahulRajput - CC Attribution
+      https://sketchfab.com/3d-models/d02a9709556348968fef810684b4e3fa
+  "Realistic Deer 3D Model 2.0 (Demo Free Download)" by WildMesh 3D - CC Attribution-NonCommercial
+      https://sketchfab.com/3d-models/30bd8d8458c54b0cb2d66cc12471f1d0
+  "Realsitic Monkey" by TdoubleU8 - CC Attribution
+      https://sketchfab.com/3d-models/50e4b1da03494429b1265fc095f2c530
+  "Rhino 3D Model Free" by iRahulRajput - CC Attribution
+      https://sketchfab.com/3d-models/aaf2d837fbd64771834ffaf79fbdaf4f
+  "sea lion 3d model" by grodan - CC Attribution
+      https://sketchfab.com/3d-models/97931d75f2154463920aa63d5a8c2388
+  "Spiral Horned Kudu" by iRahulRajput - CC Attribution
+      https://sketchfab.com/3d-models/104bced5a4af49e091f63136a39ff2fe
+  "Striped Nyala" by iRahulRajput - CC Attribution
+      https://sketchfab.com/3d-models/41ddbcf19f364fafaf3f62ab010aa922
+  "walrus Animal 3d model free" by iRahulRajput - CC Attribution
+      https://sketchfab.com/3d-models/12c765dfdb6443a5a4932534fc280b30
+  "WILDEBEEST - Realistic 3D Model (DEMO FREE)" by WildMesh 3D - CC Attribution-NonCommercial
+      https://sketchfab.com/3d-models/8fef096a02af4937865e0b5aa7401aa0
+  "Zebra" by Direct Dimensions - CC Attribution
+      https://sketchfab.com/3d-models/bd7258ee007b4e0fb521abb74bfa99d0
+
+PAINTED DIORAMA BACKDROPS AND GALLERY PAINTINGS (public domain, via Wikimedia Commons)
+
+  Albert Bierstadt - A Storm in the Rocky Mountains, Mt. Rosalie
+      https://commons.wikimedia.org/wiki/File:Albert_Bierstadt_-_A_Storm_in_the_Rocky_Mountains,_Mt._Rosalie_-_Google_Art_Project.jpg
+  Albert Bierstadt - Among the Sierra Nevada, California
+      https://commons.wikimedia.org/wiki/File:Albert_Bierstadt_-_Among_the_Sierra_Nevada,_California_-_Google_Art_Project.jpg
+  Albert Bierstadt - California Spring
+      https://commons.wikimedia.org/wiki/File:Albert_Bierstadt_-_California_Spring_-_Google_Art_Project.jpg
+  Albert Bierstadt - Rocky Mountain Landscape
+      https://commons.wikimedia.org/wiki/File:Albert_Bierstadt_-_Rocky_Mountain_Landscape_-_Google_Art_Project.jpg
+  Albert Bierstadt - Valley of the Yosemite
+      https://commons.wikimedia.org/wiki/File:Albert_Bierstadt_-_Valley_of_the_Yosemite_-_Google_Art_Project.jpg
+  Albert Bierstadt - Wind River Country
+      https://commons.wikimedia.org/wiki/File:Albert_Bierstadt_-_Wind_River_Country_-_Google_Art_Project.jpg
+  Albert Bierstadt, Buffalo Trail - The Impending Storm, 1869, NGA 166427
+      https://commons.wikimedia.org/wiki/File:Albert_Bierstadt,_Buffalo_Trail_-_The_Impending_Storm,_1869,_NGA_166427.jpg
+  Asher B. Durand - The First Harvest in the Wilderness
+      https://commons.wikimedia.org/wiki/File:Asher_B._Durand_-_The_First_Harvest_in_the_Wilderness_-_Google_Art_Project.jpg
+  Asher Brown Durand - A View of the Valley
+      https://commons.wikimedia.org/wiki/File:Asher_Brown_Durand_-_A_View_of_the_Valley_-_Google_Art_Project.jpg
+  AsherDurand-Study Woodland Interior
+      https://commons.wikimedia.org/wiki/File:AsherDurand-Study_Woodland_Interior.jpg
+  California Ranch by William Keith, 1908
+      https://commons.wikimedia.org/wiki/File:California_Ranch_by_William_Keith,_1908.jpg
+  Frederic Edwin Church - The Heart of the Andes
+      https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_The_Heart_of_the_Andes.jpg
+  Santa Barbara Hills by William Keith, 1882
+      https://commons.wikimedia.org/wiki/File:Santa_Barbara_Hills_by_William_Keith,_1882.jpg
+  The Icebergs (Frederic Edwin Church), 1861 (color)
+      https://commons.wikimedia.org/wiki/File:The_Icebergs_(Frederic_Edwin_Church),_1861_(color).jpg
+  Thomas Baines - Wagon Crossing a Drift - Natal
+      https://commons.wikimedia.org/wiki/File:Thomas_Baines_-_Wagon_Crossing_a_Drift_-_Natal_-_Google_Art_Project.jpg
+  Thomas Moran, American (born England) - Grand Canyon of the Colorado River
+      https://commons.wikimedia.org/wiki/File:Thomas_Moran,_American_(born_England)_-_Grand_Canyon_of_the_Colorado_River_-_Google_Art_Project.jpg
+  Wilhelm Kuhnert Löwenpaar in der Steppe 1905
+      https://commons.wikimedia.org/wiki/File:Wilhelm_Kuhnert_L%C3%B6wenpaar_in_der_Steppe_1905.jpg
+  Wilhelm Kuhnert Nashorn
+      https://commons.wikimedia.org/wiki/File:Wilhelm_Kuhnert_Nashorn.jpg
+  William Keith - Under the Oaks
+      https://commons.wikimedia.org/wiki/File:William_Keith_-_Under_the_Oaks.jpg
+  Winslow Homer - Sunlight on the Coast
+      https://commons.wikimedia.org/wiki/File:Winslow_Homer_-_Sunlight_on_the_Coast_-_Google_Art_Project.jpg
+
+SCANNED MATERIALS AND PROPS (CC0 - thank you!)
+
+  Poly Haven (polyhaven.com) textures: bark_brown_02, coast_sand_01, concrete_floor_02, concrete_pavement, dark_wood, dirt, dry_ground_rocks, forest_ground_04, grass_path_2, lacquered_cherry_wood, leaves_forest_ground, marble_01, pine_bark, red_laterite_soil_stones, rock_face, smooth_concrete_floor, sparse_grass, velour_velvet, white_plaster_02, wood_floor
+  Poly Haven models: boulder_01, dead_tree_trunk, fern_02, fir_sapling, jacaranda_tree, namaqualand_boulder_02, rock_moss_set_01, searsia_lucida, shrub_02, shrub_03, shrub_04, street_lamp_01, wild_rooibos_bush
+  ambientCG (ambientcg.com) textures: Asphalt012, Bricks059, Carpet012, Fingerprints004, Granite005A, Ivory002A, Leather030, Marble004, Marble006, Marble009, Marble012, Marble014, Marble023, Metal009, Metal013, Metal029, Metal042B, Metal048B, Metal050B, PaintedPlaster017, Plaster001, Rock004, Rock005, Rock030, Rock042L, Terrazzo001, Terrazzo008, Terrazzo019M
+  Smithsonian NMNH "Tyrannosaurus rex / Triceratops" 3D scan (3d.si.edu, CC0)
+
+
+BROWSER VERSION (v1.4.0, /play)
+
+  Characters: "Universal Base Characters" by Quaternius (quaternius.com) - CC0
+  Animations: "Universal Animation Library" by Quaternius (quaternius.com) - CC0
+    (guard / intruder outfits and the web weapons are the game's own, built on those bodies)
+  three.js (threejs.org) - MIT licence
+  three-mesh-bvh by Garrett Johnson - MIT licence
+  recast-navigation-js by Isaac Mason (Recast & Detour by Mikko Mononen) - MIT / zlib licence
+  meshoptimizer by Arseny Kapoulkine - MIT licence
+  Lighting for the browser was baked in Blender (Cycles) from the app's own scene.

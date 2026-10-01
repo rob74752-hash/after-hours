@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <meta name="theme-color" content="#050608">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>After Hours - Play in your browser</title>
+  <meta name="description" content="Play AFTER HOURS in your browser - co-op and deathmatch in a natural history museum at night, with friends on the app or the web.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="game.css?v=202610010404">
+</head>
+<body>
+  <canvas id="view" aria-label="Game view"></canvas>
+  <div id="ui"></div>
+  <div class="rotate-hint" aria-live="polite"><div><b>&#x21bb;</b><p>Turn your phone sideways to play</p></div></div>
+  <noscript><p class="nojs">After Hours needs JavaScript and WebGL 2 to run.</p></noscript>
+  <script type="module" src="game.js?v=202610010404"></script>
+</body>
+</html>

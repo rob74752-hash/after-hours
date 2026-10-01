@@ -1,0 +1,626 @@
+{
+ "M_AMNH2_JacketPistol": {
+  "color": [
+   0.1,
+   0.105,
+   0.115
+  ],
+  "rough": 0.85,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 10,
+  "nstrength": 0.9,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_PantsPistol": {
+  "color": [
+   0.09,
+   0.09,
+   0.1
+  ],
+  "rough": 0.85,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 10,
+  "nstrength": 0.9,
+  "color_tex": null,
+  "color_tiling": 0.6,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_Knit": {
+  "color": [
+   0.04,
+   0.04,
+   0.044
+  ],
+  "rough": 0.95,
+  "metal": 0.0,
+  "normal": "Knit_N",
+  "tiling": 6,
+  "nstrength": 1.2,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_Glove": {
+  "color": [
+   0.085,
+   0.072,
+   0.06
+  ],
+  "rough": 0.5,
+  "metal": 0.0,
+  "normal": "Leather_N",
+  "tiling": 5,
+  "nstrength": 0.8,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_BootBlack": {
+  "color": [
+   0.065,
+   0.058,
+   0.05
+  ],
+  "rough": 0.6,
+  "metal": 0.0,
+  "normal": "Leather_N",
+  "tiling": 4,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_Rubber": {
+  "color": [
+   0.018,
+   0.018,
+   0.02
+  ],
+  "rough": 0.8,
+  "metal": 0.0,
+  "normal": "Tread_N",
+  "tiling": 3,
+  "nstrength": 1.2,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_VestPistol": {
+  "color": [
+   0.13,
+   0.15,
+   0.075
+  ],
+  "rough": 0.8,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 12,
+  "nstrength": 1.1,
+  "color_tex": null,
+  "color_tiling": 0.8,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_Webbing": {
+  "color": [
+   0.055,
+   0.058,
+   0.048
+  ],
+  "rough": 0.75,
+  "metal": 0.0,
+  "normal": "Webbing_N",
+  "tiling": 10,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_Gunmetal": {
+  "color": [
+   0.13,
+   0.135,
+   0.14
+  ],
+  "rough": 0.35,
+  "metal": 0.9,
+  "normal": "Polymer_N",
+  "tiling": 4,
+  "nstrength": 0.3,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_BlackMetal": {
+  "color": [
+   0.04,
+   0.04,
+   0.045
+  ],
+  "rough": 0.4,
+  "metal": 0.6,
+  "normal": "Polymer_N",
+  "tiling": 4,
+  "nstrength": 0.4,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_Polymer": {
+  "color": [
+   0.065,
+   0.068,
+   0.072
+  ],
+  "rough": 0.55,
+  "metal": 0.0,
+  "normal": "Polymer_N",
+  "tiling": 5,
+  "nstrength": 0.8,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_PatchRed": {
+  "color": [
+   0.35,
+   0.04,
+   0.03
+  ],
+  "rough": 0.8,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 12,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_Duffel": {
+  "color": [
+   0.11,
+   0.12,
+   0.15
+  ],
+  "rough": 0.7,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 10,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_Fossil": {
+  "color": [
+   0.52,
+   0.42,
+   0.3
+  ],
+  "rough": 0.75,
+  "metal": 0.0,
+  "normal": "Leather_N",
+  "tiling": 3,
+  "nstrength": 1.5,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.6
+ },
+ "M_AMNH2_ArtTube": {
+  "color": [
+   0.3,
+   0.27,
+   0.2
+  ],
+  "rough": 0.7,
+  "metal": 0.0,
+  "normal": "Polymer_N",
+  "tiling": 4,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_NVGLens": {
+  "color": [
+   0.04,
+   0.8,
+   0.16
+  ],
+  "rough": 0.1,
+  "metal": 0.0,
+  "normal": null,
+  "tiling": 8.0,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 2.5,
+  "grime": 0.25
+ },
+ "M_AMNH2_LensGreen": {
+  "color": [
+   0.05,
+   0.75,
+   0.18
+  ],
+  "rough": 0.08,
+  "metal": 0.0,
+  "normal": null,
+  "tiling": 8.0,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 2.2,
+  "grime": 0.25
+ },
+ "M_AMNH2_LensAmber": {
+  "color": [
+   1.0,
+   0.38,
+   0.04
+  ],
+  "rough": 0.08,
+  "metal": 0.0,
+  "normal": null,
+  "tiling": 8.0,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 2.2,
+  "grime": 0.25
+ },
+ "M_AMNH2_HelmetBlack": {
+  "color": [
+   0.055,
+   0.056,
+   0.06
+  ],
+  "rough": 0.55,
+  "metal": 0.0,
+  "normal": "Polymer_N",
+  "tiling": 5,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_JacketRifle": {
+  "color": [
+   0.11,
+   0.115,
+   0.1
+  ],
+  "rough": 0.85,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 10,
+  "nstrength": 0.9,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_PantsRifle": {
+  "color": [
+   0.3,
+   0.25,
+   0.17
+  ],
+  "rough": 0.85,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 10,
+  "nstrength": 0.9,
+  "color_tex": "CamoMC",
+  "color_tiling": 0.6,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_BootTan": {
+  "color": [
+   0.36,
+   0.27,
+   0.17
+  ],
+  "rough": 0.6,
+  "metal": 0.0,
+  "normal": "Leather_N",
+  "tiling": 4,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_VestRifle": {
+  "color": [
+   1,
+   1,
+   1
+  ],
+  "rough": 0.8,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 12,
+  "nstrength": 1.1,
+  "color_tex": "CamoMC",
+  "color_tiling": 0.8,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_HelmetTan": {
+  "color": [
+   0.33,
+   0.28,
+   0.2
+  ],
+  "rough": 0.6,
+  "metal": 0.0,
+  "normal": "Polymer_N",
+  "tiling": 5,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_JacketHeavy": {
+  "color": [
+   0.07,
+   0.072,
+   0.08
+  ],
+  "rough": 0.85,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 10,
+  "nstrength": 0.9,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_PantsHeavy": {
+  "color": [
+   0.075,
+   0.078,
+   0.085
+  ],
+  "rough": 0.85,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 10,
+  "nstrength": 0.9,
+  "color_tex": null,
+  "color_tiling": 0.6,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_VestHeavy": {
+  "color": [
+   1.8,
+   1.8,
+   1.8
+  ],
+  "rough": 0.8,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 12,
+  "nstrength": 1.1,
+  "color_tex": "CamoBlack",
+  "color_tiling": 0.8,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_GuardShirt": {
+  "color": [
+   0.03,
+   0.05,
+   0.12
+  ],
+  "rough": 0.8,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 14,
+  "nstrength": 0.6,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_GuardTrousers": {
+  "color": [
+   0.02,
+   0.024,
+   0.042
+  ],
+  "rough": 0.75,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 14,
+  "nstrength": 0.6,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_GuardShoe": {
+  "color": [
+   0.012,
+   0.012,
+   0.013
+  ],
+  "rough": 0.25,
+  "metal": 0.0,
+  "normal": "Leather_N",
+  "tiling": 4,
+  "nstrength": 0.6,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_GuardBelt": {
+  "color": [
+   0.015,
+   0.015,
+   0.016
+  ],
+  "rough": 0.35,
+  "metal": 0.0,
+  "normal": "Leather_N",
+  "tiling": 5,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_Gold": {
+  "color": [
+   0.85,
+   0.62,
+   0.22
+  ],
+  "rough": 0.3,
+  "metal": 1.0,
+  "normal": null,
+  "tiling": 8.0,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_GuardSkin": {
+  "color": [
+   0.52,
+   0.36,
+   0.27
+  ],
+  "rough": 0.5,
+  "metal": 0.0,
+  "normal": "Leather_N",
+  "tiling": 2,
+  "nstrength": 0.15,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.05
+ },
+ "M_AMNH2_GuardCap": {
+  "color": [
+   0.02,
+   0.03,
+   0.07
+  ],
+  "rough": 0.6,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 14,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_BlackPolymer": {
+  "color": [
+   0.02,
+   0.02,
+   0.022
+  ],
+  "rough": 0.45,
+  "metal": 0.0,
+  "normal": "Polymer_N",
+  "tiling": 5,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_GuardEye": {
+  "color": [
+   0.015,
+   0.012,
+   0.01
+  ],
+  "rough": 0.15,
+  "metal": 0.0,
+  "normal": null,
+  "tiling": 8.0,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_GuardEyeWhite": {
+  "color": [
+   0.75,
+   0.72,
+   0.68
+  ],
+  "rough": 0.3,
+  "metal": 0.0,
+  "normal": null,
+  "tiling": 8.0,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_GuardHair": {
+  "color": [
+   0.03,
+   0.022,
+   0.016
+  ],
+  "rough": 0.7,
+  "metal": 0.0,
+  "normal": "Knit_N",
+  "tiling": 12,
+  "nstrength": 0.6,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ },
+ "M_AMNH2_GuardLip": {
+  "color": [
+   0.4,
+   0.22,
+   0.19
+  ],
+  "rough": 0.5,
+  "metal": 0.0,
+  "normal": null,
+  "tiling": 8.0,
+  "nstrength": 1.0,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.25
+ }
+}
