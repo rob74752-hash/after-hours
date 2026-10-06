@@ -622,5 +622,53 @@
   "color_tiling": 0.5,
   "emit": 0.0,
   "grime": 0.25
+ },
+ "M_AMNH2_FPGlove": {
+  "color": [
+   0.048,
+   0.05,
+   0.053
+  ],
+  "rough": 0.72,
+  "metal": 0.0,
+  "normal": "Cordura_N",
+  "tiling": 22,
+  "nstrength": 0.6,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.08
+ },
+ "M_AMNH2_FPGlovePad": {
+  "color": [
+   0.028,
+   0.029,
+   0.031
+  ],
+  "rough": 0.55,
+  "metal": 0.0,
+  "normal": "Polymer_N",
+  "tiling": 6,
+  "nstrength": 0.4,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.05
+ },
+ "M_AMNH2_FPGloveLeather": {
+  "color": [
+   0.026,
+   0.026,
+   0.028
+  ],
+  "rough": 0.45,
+  "metal": 0.0,
+  "normal": "Leather_N",
+  "tiling": 16,
+  "nstrength": 0.22,
+  "color_tex": null,
+  "color_tiling": 0.5,
+  "emit": 0.0,
+  "grime": 0.05
  }
 }

@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>After Hours - app menu</title>
+  <meta name="robots" content="noindex">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="game.css?v=202610060231">
+  <style>
+    /* the app draws its own 3D scene behind this page */
+    html, body { background: transparent !important; }
+    body.app .menu .mtop .quit { margin-left: 12px; font: 700 15px var(--cond); letter-spacing: .12em; color: #fff; background: rgba(255,255,255,.06);
+      border: 1px solid rgba(255,255,255,.18); padding: 8px 12px; cursor: pointer; text-transform: uppercase; }
+    body.app .menu .mtop .quit:hover, body.app .menu .mtop .quit:focus-visible { border-color: var(--red); color: var(--red); outline: none; }
+    body.app .lock-hint, body.app #view { display: none !important; }
+  </style>
+</head>
+<body class="app">
+  <div id="ui"></div>
+  <script type="module" src="app.js?v=202610060231"></script>
+</body>
+</html>
